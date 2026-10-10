@@ -14,9 +14,9 @@
 // ============================================================
 const PRODUCTS = [
   {
-    title: "Lighter display case, 20 printed cases (no lighters)",
-    price: "$50",
-    url: "https://www.ebay.com/itm/407112517650",
+    title: "Baltimore Ravens (HEAD) NFL Fan Chain Necklace 3D Printed)",
+    price: "$25",
+    url: "https://www.ebay.com/itm/407078141848",
     image: ""
   }
 ];
